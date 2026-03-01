@@ -1,5 +1,4 @@
 A console application project written in the C++ programming language and implemented in the Embarcadero Rad Studio integrated environment. The Win32 Console system provides simple input/output. Determining the number of digits in a number entered from the keyboard.
-
 The program does the following:
   1. Prompts the user for an integer.
   2. Sets the digit counter variable to zero.
